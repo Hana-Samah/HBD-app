@@ -133,9 +133,13 @@ class NewPage extends StatelessWidget {
             ),
             SizedBox(height: 20),
             Text(
-              "Let's meet today ",
+              '🌟 To my dear friend, 🌟\n\n'
+              'You are like a shining star in my life, bringing light, joy, and laughter wherever you go.\n'
+              'I wish you a world filled with endless happiness, success that knows no bounds, and love that surrounds you every single day.\n\n'
+              'May your dreams soar high, and may you always have reasons to smile, no matter what.\n\n'
+              'Thank you for being the amazing person that you are! 💖✨',
               style: TextStyle(
-                fontSize: 24,
+                fontSize: 18,
                 fontWeight: FontWeight.bold,
                 color: Colors.black87,
                 fontFamily: 'Roboto',
